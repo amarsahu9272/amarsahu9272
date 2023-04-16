@@ -21,7 +21,7 @@ const Home = ({ darkMode }) => {
                 </Row>
                 <Row>
                     <Col lg={12} xs={12}>
-                        <h1 className="display-3 hello" align="center"><code> I'm Amar Sahu</code></h1>
+                        <h1 className="display-3 hello" align="center"><code> Amar Sahu</code></h1>
                         <h2 className="lead" align="center">
                             <span
                                 class="txt-rotate"

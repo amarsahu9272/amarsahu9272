@@ -91,12 +91,19 @@ const About = ({ darkMode }) => {
                   </Card.Title>
                   <br></br>
                   <Card.Text>
-                    <p style={{ fontSize: "17px", fontWeight: "500",textAlign: "justify" }}>
-                    A Frontend Developer experience in web designing and
-            development, producting the Quality work I'm typically use HTML,
-            CSS, and JavaScript to build the UI,  work with
-            frameworks such as React, also responsible for ensuring the website
-            or application is optimized for speed, accessibility, and usability.
+                    <p
+                      style={{
+                        fontSize: "17px",
+                        fontWeight: "500",
+                        textAlign: "justify",
+                      }}
+                    >
+                      A Frontend Developer experience in web designing and
+                      development, producting the Quality work I'm typically use
+                      HTML, CSS, and JavaScript to build the UI, work with
+                      frameworks such as React, also responsible for ensuring
+                      the website or application is optimized for speed,
+                      accessibility, and usability.
                     </p>
                   </Card.Text>
 
@@ -140,10 +147,12 @@ const About = ({ darkMode }) => {
 
                   <div>
                     <p>
-                       <span> </span>Amar Sahu
+                      <span> </span>Amar Sahu
                       <br /> Jamshedpur, Jharkhand
                       <br />{" "}
-                      <strong style={{ fontWeight: "600" }}>+91 727 383 6256</strong>
+                      <strong style={{ fontWeight: "600" }}>
+                        +91 727-383-6256
+                      </strong>
                       <br />
                       <strong style={{ fontWeight: "600" }}>
                         amarsaahu1997@gmail.com

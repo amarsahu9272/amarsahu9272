@@ -67,7 +67,7 @@ const Contact = ({ darkMode }) => {
             <div className="contact-text">
               <p>
                 Amar Sahu <br /> Jamshedpur, Jharkhand <br />{" "}
-                <strong style={{ fontWeight: "600" }}>7273836256</strong>
+                <strong style={{ fontWeight: "600" }}>+91 727-383-6256</strong>
                 <br />
                 <strong style={{ fontWeight: "600" }}>
                   amarsaahu1997@gmail.com
