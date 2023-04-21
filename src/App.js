@@ -1,6 +1,6 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Home, About, Skills,Experience,Contact, Footer } from "./components";
+import { Home, About, Skills, Experience, Contact, Footer } from "./components";
 import { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
@@ -9,13 +9,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAdjust } from "@fortawesome/free-solid-svg-icons";
 import "./components/styles.css";
 import "./components/button.css";
-import  logo from "./media/s.png"
+import logo from "./media/s.png";
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const toggleDarkMode = () => setDarkMode(darkMode ? false : true);
- 
 
-return (
+  return (
     <div className="App" data-theme={darkMode ? "dark" : "light"}>
       <Navbar
         expand="lg"
