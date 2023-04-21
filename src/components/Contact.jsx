@@ -26,7 +26,7 @@ const Contact = ({ darkMode }) => {
   const onSubmit = async (e) => {
     e.preventDefault();
     emailjs
-      .send("service_luudcxb", "contact", templateParams, "onIBYnsLKo3_q1DsR")
+      .send("service_4wup2qr", "template_rg5dyma", templateParams, "osf3OleBZAheD_Pz_")
       .then(
         (response) => {
           console.log("SUCCESS!", response.status, response.text);
