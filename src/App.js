@@ -1,4 +1,4 @@
-import "./App.css";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Home, About, Skills, Experience, Contact, Footer } from "./components";
 import { useState } from "react";
