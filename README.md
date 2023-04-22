@@ -11,13 +11,15 @@ Frontend Developer having the ability to problem-solving with specialization in 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 
-🌎 I’m belongs to Jamshedpur, Jharkhand
+🌎 I’m from Jamshedpur, Jharkhand
 
 🌱 I’m currently learning Full Stack Web Development
 
-💬 Ask me about HTML, CSS, JavaScript, React
+<!-- 💬 Ask me about HTML, CSS, JavaScript, React -->
 
 📫 Reach me <a href="mailto:amarsaahu1997@gmail.com">Email</a> 
+
+🚀 My Portfolio <a href="https://amar-sahu-portfolio.vercel.app/"></></a> 
 
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yBqDst1RaCGfmc15ov9Bh23DhbGpFHbY/view?usp=share_link">Resume</a> 
 
