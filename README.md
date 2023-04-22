@@ -23,7 +23,7 @@ Frontend Developer having the ability to problem-solving with specialization in 
 
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yBqDst1RaCGfmc15ov9Bh23DhbGpFHbY/view?usp=share_link">Resume</a> 
 
-⚡ Fun fact I enjoy coding
+⚡ Fun fact I enjoy coding <a href="https://leetcode.com/AmarSaahu1997/">Leet-Code</a>
 
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
