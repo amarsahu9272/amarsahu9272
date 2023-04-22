@@ -22,7 +22,7 @@ const Experience = ({ darkMode }) => {
           <br></br>
           <Zoom>
             <Row>
-              <Col lg={4} sm={12}>
+              <Col lg={4} sm={12} style={{ marginTop: "1rem" }}>
                 <Card
                   align="center"
                   className="exp"
@@ -30,8 +30,8 @@ const Experience = ({ darkMode }) => {
                 >
                   <br></br>
                   <center>
-                    <div class="flip-card">
-                      <div class="flip-card-inner">
+                    <div className="flip-card">
+                      <div className="flip-card-inner">
                         <div className="flip-card-front">
                           <Card.Img variant="top" src={weather} />
                           <Card.Body>
@@ -112,7 +112,7 @@ const Experience = ({ darkMode }) => {
                 </Card>
               </Col>
 
-              <Col lg={4} sm={12}>
+              <Col lg={4} sm={12} style={{ marginTop: "1rem" }}>
                 <Card
                   align="center"
                   className="exp"
@@ -121,7 +121,7 @@ const Experience = ({ darkMode }) => {
                   <br></br>
                   <center style={{ height: "336px" }}>
                     <div className="flip-card" class="flip-card">
-                      <div class="flip-card-inner">
+                      <div className="flip-card-inner">
                         <div className="flip-card-front">
                           <Card.Img variant="top" src={Twitter} />
                           <Card.Body>
@@ -203,7 +203,7 @@ const Experience = ({ darkMode }) => {
                   <br></br>
                 </Card>
               </Col>
-              <Col lg={4} sm={12}>
+              <Col lg={4} sm={12} style={{ marginTop: "1rem" }}>
                 <Card
                   align="center"
                   className="exp"
@@ -211,8 +211,8 @@ const Experience = ({ darkMode }) => {
                 >
                   <br></br>
                   <center>
-                    <div class="flip-card">
-                      <div class="flip-card-inner">
+                    <div className="flip-card">
+                      <div className="flip-card-inner">
                         <div className="flip-card-front">
                           <Card.Img variant="top" src={googleDoc} />
                           <Card.Body>

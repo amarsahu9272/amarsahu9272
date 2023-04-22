@@ -10,7 +10,7 @@ const Home = ({ darkMode }) => {
             <AttentionSeeker shakeX>
                 <Row>
                     <Container align="center">
-                        <Col lg={10} xs={10}>
+                        <Col lg={7} xs={7}>
                             <br />
                         
                             <div className="img">
@@ -24,7 +24,7 @@ const Home = ({ darkMode }) => {
                         <h1 className="display-3 hello" align="center"><code> Amar Sahu</code></h1>
                         <h2 className="lead" align="center">
                             <span
-                                class="txt-rotate"
+                                className="txt-rotate"
                                 data-period="500"
                                 data-rotate='[ " Frontend Developer"]'>
                             </span>

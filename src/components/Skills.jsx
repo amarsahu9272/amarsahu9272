@@ -22,7 +22,7 @@ const Skills = ({ darkMode }) => {
       <Slide>
         <Container>
           <Row>
-            <Col lg={4} xs={8}>
+            <Col lg={4} xs={8} style={{marginTop:"5rem"}}>
               <h1 className="display-3 skill-h">
                 I can work <p className="with">with</p>{" "}
               </h1>
@@ -237,7 +237,7 @@ const Skills = ({ darkMode }) => {
                 </Button>
               </Card> */}
             </Col>
-            <Col lg={6} xs={12}>
+            <Col lg={6} xs={12} style={{marginTop:"10rem"}}>
               <br></br>
               <Card className="skill-nbcard">
                 <Card.Body>
