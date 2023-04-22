@@ -41,8 +41,8 @@ Frontend Developer having the ability to problem-solving with specialization in 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 # 📊GitHub Stats :
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarsahu9272&theme=react&hide_border=true)<br/> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=amarsahu9272&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amarsahu9272&theme=react&hide_border=true)<br/>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api username=amarsahu9272&theme=radical) -->
 <br/>
 
 ## 🌐Connect with me:
