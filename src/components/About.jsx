@@ -4,11 +4,11 @@ import "./styles.css";
 import resume from "../media/Amar_sahu.pdf";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faGithub,
-  faInstagramSquare,
-  faLinkedinIn,
-} from "@fortawesome/free-brands-svg-icons";
+// import {
+//   faGithub,
+//   faInstagramSquare,
+//   faLinkedinIn,
+// } from "@fortawesome/free-brands-svg-icons";
 import { faFile } from "@fortawesome/free-solid-svg-icons";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
@@ -98,16 +98,16 @@ const About = ({ darkMode }) => {
                         textAlign: "justify",
                       }}
                     >
-                      A Frontend Developer experience in web designing and
-                      development, producting the Quality work I'm typically use
+                      A Frontend Developer experience in web designing and web
+                      development & producting the Quality work. I typically use
                       HTML, CSS, and JavaScript to build the UI, work with
-                      frameworks such as React, also responsible for ensuring
-                      the website or application is optimized for speed,
-                      accessibility, and usability.
+                      frameworks such as React and also responsible for ensuring
+                      the website or application which is optimized for speed,
+                      accessibility and usability.
                     </p>
                   </Card.Text>
 
-                  <a href={resume} target="_blank" rel="noreferrer noopener">
+                  {/* <a href={resume} target="_blank" rel="noreferrer noopener">
                     <Button
                       variant={darkMode ? "outline-light" : "outline-dark"}
                       className="a"
@@ -133,7 +133,7 @@ const About = ({ darkMode }) => {
                       />{" "}
                       Download Resume
                     </Button>
-                  </a>
+                  </a> */}
                 </Card.Body>
               </Card>
             </Col>
@@ -141,11 +141,12 @@ const About = ({ darkMode }) => {
               <Card className="nbcard">
                 <Card.Body>
                   <Card.Title>
-                    <h2 className="lead">Let's Connect!</h2>
+                    {/* <h2 className="lead">Let's Connect!</h2> */}
+                    <h2 className="lead">Resume</h2>
                   </Card.Title>
                   <br></br>
 
-                  <div>
+                  {/* <div>
                     <p>
                       <span> </span>Amar Sahu
                       <br /> Jamshedpur, Jharkhand
@@ -210,6 +211,35 @@ const About = ({ darkMode }) => {
                         size="lg"
                         icon={faInstagramSquare}
                       />
+                    </Button>
+                  </a> */}
+                  <a href={resume} target="_blank" rel="noreferrer noopener">
+                    <Button
+                      variant={darkMode ? "outline-light" : "outline-dark"}
+                      className="a"
+                    >
+                      <FontAwesomeIcon
+                        className="dark"
+                        size="lg"
+                        icon={faFile}
+                      />{" "}
+                      View Resume
+                    </Button>
+                  </a>
+                  <br />
+                  <br />
+
+                  <a href={resume} download>
+                    <Button
+                      variant={darkMode ? "outline-light" : "outline-dark"}
+                      className="a"
+                    >
+                      <FontAwesomeIcon
+                        className="dark"
+                        size="lg"
+                        icon={faFile}
+                      />{" "}
+                      Download Resume
                     </Button>
                   </a>
                 </Card.Body>

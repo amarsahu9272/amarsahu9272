@@ -29,6 +29,96 @@ const Experience = ({ darkMode }) => {
                   data-theme={darkMode ? "dark" : "light"}
                 >
                   <br></br>
+                  <center>
+                    <div class="flip-card">
+                      <div class="flip-card-inner">
+                        <div className="flip-card-front">
+                          <Card.Img variant="top" src={weather} />
+                          <Card.Body>
+                            <Card.Title align="center">
+                              -Weather-Websites-
+                            </Card.Title>
+                            <Card.Text>
+                              <td style={{ fontSize: "14px" }}>
+                                <p align="center">Features</p>
+                                <tr>
+                                  Weather websites offer current weather
+                                  information including temperature, wind,
+                                  humidity, and air pressure for various
+                                  locations.
+                                </tr>
+                              </td>
+                            </Card.Text>
+                          </Card.Body>
+                        </div>
+                        <div className="flip-card-back">
+                          <img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                            alt="css3"
+                            width="40"
+                            height="40"
+                          />
+                          <img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                            alt="html5"
+                            width="40"
+                            height="40"
+                          />
+
+                          <img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                            alt="javascript"
+                            width="40"
+                            height="40"
+                          />
+                          <img
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                            alt="react"
+                            width="40"
+                            height="40"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </center>
+                  <br></br>
+                  <div>
+                    <a
+                      href="https://assignment-weather.vercel.app/"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                    >
+                      <Button
+                        variant={darkMode ? "outline-light" : "outline-dark"}
+                        className="sbtn"
+                      >
+                        View Project
+                      </Button>
+                    </a>
+                    <a
+                      href="https://github.com/amarsahu9272/assignment-weather"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                    >
+                      <Button
+                        variant={darkMode ? "outline-light" : "outline-dark"}
+                        className="sbtn"
+                      >
+                        View Github Repo
+                      </Button>
+                    </a>
+                  </div>
+                  <br></br>
+                </Card>
+              </Col>
+
+              <Col lg={4} sm={12}>
+                <Card
+                  align="center"
+                  className="exp"
+                  data-theme={darkMode ? "dark" : "light"}
+                >
+                  <br></br>
                   <center style={{ height: "336px" }}>
                     <div className="flip-card" class="flip-card">
                       <div class="flip-card-inner">
@@ -188,95 +278,6 @@ const Experience = ({ darkMode }) => {
 
                     <a
                       href="https://github.com/amarsahu9272/googleDocClone"
-                      target="_blank"
-                      rel="noreferrer noopener"
-                    >
-                      <Button
-                        variant={darkMode ? "outline-light" : "outline-dark"}
-                        className="sbtn"
-                      >
-                        View Github Repo
-                      </Button>
-                    </a>
-                  </div>
-                  <br></br>
-                </Card>
-              </Col>
-              <Col lg={4} sm={12}>
-                <Card
-                  align="center"
-                  className="exp"
-                  data-theme={darkMode ? "dark" : "light"}
-                >
-                  <br></br>
-                  <center>
-                    <div class="flip-card">
-                      <div class="flip-card-inner">
-                        <div className="flip-card-front">
-                          <Card.Img variant="top" src={weather} />
-                          <Card.Body>
-                            <Card.Title align="center">
-                              -Weather-Websites-
-                            </Card.Title>
-                            <Card.Text>
-                              <td style={{ fontSize: "14px" }}>
-                                <p align="center">Features</p>
-                                <tr>
-                                  Weather websites offer current weather
-                                  information including temperature, wind,
-                                  humidity, and air pressure for various
-                                  locations.
-                                </tr>
-                              </td>
-                            </Card.Text>
-                          </Card.Body>
-                        </div>
-                        <div className="flip-card-back">
-                          <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                            alt="css3"
-                            width="40"
-                            height="40"
-                          />
-                          <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                            alt="html5"
-                            width="40"
-                            height="40"
-                          />
-
-                          <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                            alt="javascript"
-                            width="40"
-                            height="40"
-                          />
-                          <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                            alt="react"
-                            width="40"
-                            height="40"
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </center>
-                  <br></br>
-                  <div>
-                    <a
-                      href="https://assignment-weather.vercel.app/"
-                      target="_blank"
-                      rel="noreferrer noopener"
-                    >
-                      <Button
-                        variant={darkMode ? "outline-light" : "outline-dark"}
-                        className="sbtn"
-                      >
-                        View Project
-                      </Button>
-                    </a>
-                    <a
-                      href="https://github.com/amarsahu9272/assignment-weather"
                       target="_blank"
                       rel="noreferrer noopener"
                     >
