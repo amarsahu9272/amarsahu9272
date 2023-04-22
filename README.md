@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Amar Sahu</h2> 
 
 Frontend Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills  and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
-<!-- <p align="left"> <img src="" alt="amarsahu9272" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsahu9272&label=Profile%20views&color=0e75b6&style=flat" alt="amarsahu9272" /> </p>
 
 🙋‍♂️ About Me 
 
