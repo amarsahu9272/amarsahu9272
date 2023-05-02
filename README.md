@@ -48,6 +48,7 @@ Frontend Developer having the ability to problem-solving with specialization in 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarsahu9272&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="amarsahu9272" /></p>
 <br/>
+<br/>
 
 ## 🌐Connect with me:
 <p>
