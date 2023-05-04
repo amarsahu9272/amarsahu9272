@@ -45,14 +45,6 @@ Frontend Developer having the ability to problem-solving with specialization in 
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amarsahu9272&theme=react&hide_border=true)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api username=amarsahu9272&theme=radical) -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarsahu9272&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="amarsahu9272" />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
