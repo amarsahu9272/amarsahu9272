@@ -21,7 +21,7 @@ Frontend Developer having the ability to problem-solving with specialization in 
 
 🚀 My Portfolio <a href="https://amar-sahu-portfolio.vercel.app/"></></a> 
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1yBqDst1RaCGfmc15ov9Bh23DhbGpFHbY/view?usp=share_link">Resume</a> 
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1dZmzDhBKE1uhWxi9qoTxZ5cKb_g7MJ-9/view?usp=drive_link">Resume</a> 
 
 ⚡ Fun fact I enjoy coding <a href="https://leetcode.com/AmarSaahu1997/">Leet-Code</a>
 
