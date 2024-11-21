@@ -19,7 +19,7 @@ A "computer science engineering student" with expertise in web design and develo
 
 📫 Reach me <a href="mailto:amarsaahu1997@gmail.com">Email</a> 
 
-🚀 My Portfolio <a href="https://amar-sahu-portfolio.vercel.app/"></></a> 
+🚀 My Portfolio <a href="https://amarsahu-portfolio.vercel.app/"></></a> 
 
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-Adog1-zA29Uey0mOKT3w3xtqyEJYWvj/view?usp=drivesdk">Resume</a> 
 
