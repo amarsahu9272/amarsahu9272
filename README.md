@@ -11,9 +11,7 @@ A "computer science engineering student" with expertise in web design and develo
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 
-🌎 I’m from Jamshedpur, Jharkhand
-
-//🌱 I’m currently learning Full Stack Web Development
+🌎 I’m from Jamshedpur, Jharkhand 🌱
 
 <!-- 💬 Ask me about HTML, CSS, JavaScript, React -->
 
