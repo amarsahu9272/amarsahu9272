@@ -21,7 +21,7 @@ A "computer science engineering student" with expertise in web design and develo
 
 🚀 My Portfolio <a href="https://amar-sahu-portfolio.vercel.app/"></></a> 
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1dZmzDhBKE1uhWxi9qoTxZ5cKb_g7MJ-9/view?usp=drive_link">Resume</a> 
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1-Adog1-zA29Uey0mOKT3w3xtqyEJYWvj/view?usp=drivesdk">Resume</a> 
 
 ⚡ Fun fact I enjoy coding <a href="https://leetcode.com/AmarSaahu1997/">Leet-Code</a>
 
