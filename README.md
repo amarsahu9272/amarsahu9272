@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Amar Sahu</h2> 
 
-Frontend Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills  and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
+A "computer science engineering student" with expertise in web design and development, dedicated to delivering high-quality, user-centric solutions. My technical skill set includes HTML, CSS, JavaScript, and React.js for building dynamic and responsive user interfaces. Additionally, I have experience with state management tools like Recoil and Redux, enabling seamless application functionality and scalability.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsahu9272&label=Profile%20views&color=0e75b6&style=flat" alt="amarsahu9272" /> </p>
 
 🙋‍♂️ About Me 
