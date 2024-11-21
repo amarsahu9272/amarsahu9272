@@ -13,7 +13,7 @@ A "computer science engineering student" with expertise in web design and develo
 
 🌎 I’m from Jamshedpur, Jharkhand
 
-🌱 I’m currently learning Full Stack Web Development
+//🌱 I’m currently learning Full Stack Web Development
 
 <!-- 💬 Ask me about HTML, CSS, JavaScript, React -->
 
