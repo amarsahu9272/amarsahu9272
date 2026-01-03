@@ -38,8 +38,8 @@ A responsive web application built for an agriculture-focused company using drip
 - Focused on clarity for non-technical users  
 - Optimized layout and performance  
 
-🔗 **Live:** https://agromic-industry.vercel.app  
-📂 **Code:** https://github.com/amarsahu9272/agromic-industry
+🔗 **Live:** https://agromic.vercel.app/ 
+📂 **Code:** https://github.com/amarsahu9272/Agromic.git
 
 ---
 
