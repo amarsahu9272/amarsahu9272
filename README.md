@@ -43,11 +43,11 @@ Computer Science Engineering student focused on building clean, scalable, and us
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarsahu9272&theme=react&hide_border=true" />
-</p>
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=amarsahu9272&theme=react&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api username=amarsahu9272&theme=radical) -->
+<br/>
+<br/>
 
 ---
 
