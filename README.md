@@ -43,34 +43,6 @@ A responsive web application built for an agriculture-focused company using drip
 
 ---
 
-### 🛒 E-Commerce Frontend  
-**Tech:** React, Redux, React Router  
-
-A scalable e-commerce frontend with cart management and product navigation.
-
-- Global state management using Redux  
-- Reusable components and clean routing  
-- Structured and maintainable codebase  
-
-🔗 **Live:** https://ecommerce-react-demo.vercel.app  
-📂 **Code:** https://github.com/amarsahu9272/ecommerce-react
-
----
-
-### 📊 GitHub Profile Analyzer  
-**Tech:** JavaScript, HTML, CSS, GitHub API  
-
-A web tool that fetches and displays GitHub user data dynamically.
-
-- API integration with error handling  
-- Dynamic UI updates  
-- Clean and simple data presentation  
-
-🔗 **Live:** https://github-profile-analyzer.vercel.app  
-📂 **Code:** https://github.com/amarsahu9272/github-profile-analyzer
-
----
-
 ## 🛠 Core Tech Stack
 
 **Languages:** HTML, CSS, JavaScript  
