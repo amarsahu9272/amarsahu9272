@@ -43,6 +43,20 @@ A responsive web application built for an agriculture-focused company using drip
 
 ---
 
+### 🌾 PDF-Merge-Organize-Split  
+**Tech:** React, JavaScript, CSS  
+
+A responsive web application tool for organizing PDF.
+
+- Mobile-first, user-friendly UI  
+- Focused on clarity for non-technical users  
+- Optimized layout and performance  
+
+🔗 **Live:** https://pdf-merger-organizer-splitter.vercel.app/
+📂 **Code:** https://github.com/amarsahu9272/PDF-Merger-Organizer-Splitter.git
+
+---
+
 ## 🛠 Core Tech Stack
 
 **Languages:** HTML, CSS, JavaScript  
