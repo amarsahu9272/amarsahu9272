@@ -15,13 +15,13 @@ Computer Science Engineering student focused on building clean, scalable, and us
 <img align="right" width="380" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" />
 
 - 🌍 From Jamshedpur, Jharkhand  
-- 💻 Frontend-focused developer  
+- 💻 Web developer  
 - ⚙️ Strong with React, Redux, and modern JavaScript  
 - 🎯 Care about clean UI, performance, and maintainable code  
 - 🧠 Regular problem solving on LeetCode  
 
-📫 **Email:** [amarsaahu1997@gmail.com](mailto:amarsaahu1997@gmail.com)
 
+📫 **Email:** [amarsaahu1997@gmail.com](mailto:amarsaahu1997@gmail.com)
 🌍 **My Website:** [amarsahu-portfolio.vercel.app](https://amarsahu.vercel.app/)  
 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1-Adog1-zA29Uey0mOKT3w3xtqyEJYWvj/view)  
 🧠 **LeetCode:** [leetcode.com/AmarSaahu1997](https://leetcode.com/AmarSaahu1997/)
@@ -30,17 +30,16 @@ Computer Science Engineering student focused on building clean, scalable, and us
 
 ## 🚀 Featured Projects
 
-### 🌾 Agromic Industry Web App  
+### 🌾 Avelty Group 
 **Tech:** React, JavaScript, CSS  
 
-A responsive web application built for an agriculture-focused company using drip and mini-sprinkler systems to reduce water and fertilizer wastage.
-
+A responsive web application built for an real estate company.
 - Mobile-first, user-friendly UI  
 - Focused on clarity for non-technical users  
 - Optimized layout and performance  
 
-🔗 **Live:** https://agromic.vercel.app/ 
-📂 **Code:** https://github.com/amarsahu9272/Agromic.git
+🔗 **Live:** https://aveltygroup.com/
+📂 **Code:** https://github.com/amarsahu9272
 
 ---
 
