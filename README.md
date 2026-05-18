@@ -52,7 +52,7 @@ A responsive web application tool for organizing PDF.
 - Focused on clarity for non-technical users  
 - Optimized layout and performance  
 
-🔗 **Live:** https://pdf-merger-organizer-splitter.vercel.app/
+🔗 **Live:** https://amrpdf.vercel.app/
 📂 **Code:** https://github.com/amarsahu9272/PDF-Merger-Organizer-Splitter.git
 
 ---
